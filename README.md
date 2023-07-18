@@ -1,2 +1,2 @@
 # Recommendation_System
-This repository contains an implementation of a movie recommendation system using collaborative filtering techniques.
+This repository contains an implementation of a movie recommendation system using collaborative filtering techniques.The system utilizes a dataset of user ratings to generate personalized movie recommendations based on similarities between users' preferences. The code provides a comprehensive pipeline for data preprocessing, model training, and recommendation generation, making it a valuable resource for anyone interested in understanding and building recommendation systems.
